@@ -1,7 +1,7 @@
-# 🦘 Kangaroo Multi-Layer Cascaded Early Exit Framework
+# 🦘 Kangaroo Multi-Layer Early Exit Framework
 
 <div align="center">
-  <img src="model.jpg" alt="Multi-Layer Kangaroo Architecture" width="800">
+  <img src="imgs/model.jpg" alt="Multi-Layer Kangaroo Architecture" width="800">
   <p><em>多层级联早退机制架构图</em></p>
 </div>
 
